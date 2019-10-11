@@ -19,7 +19,7 @@ to make scripting easy, query data, support long-running operations, and more. T
 
 [!INCLUDE [current-version](includes/current-version.md)]
 
-* [Install on Windows](install-azure-cli-windows.md)
+* [Install on Windows](install-azure-cli-windows.md)<xss>
 * [Install on macOS](install-azure-cli-macos.md)
 * Install on Linux or [Windows Subsystem for Linux (WSL)](/windows/wsl/about)
   * [Install with apt on Debian or Ubuntu](install-azure-cli-apt.md)
